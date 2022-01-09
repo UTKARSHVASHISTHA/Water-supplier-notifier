@@ -1,0 +1,26 @@
+.red_dot {
+    height: 80px;
+    width: 80px;
+    vertical-align: middle;
+    background-color: #FF0000;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .green_dot {
+    height: 80px;
+    width: 80px;
+    vertical-align: middle;
+    background-color: green;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .content{
+    align-items: center;
+  }
+
+.w_content{
+  align-content: center;
+  align-items: center;
+}
